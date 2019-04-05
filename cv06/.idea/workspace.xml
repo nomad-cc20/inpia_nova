@@ -2,101 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ddea062-7c50-4da8-ab64-47d47df2fa78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/config/inpia-simple-shop-catalog.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/config/inpia-simple-shop-inventory.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/bootstrap.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/inpia-simple-shop (2).iml" beforeDir="false" afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/inpia-simple-shop (2).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/target/classes/cz/upce/inpia/simpleshop/InpiaSimpleShopApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/inpia-simple-shop (1).iml" beforeDir="false" afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/inpia-simple-shop (1).iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/java/cz/upce/inpia/simpleshop/InpiaSimpleShopApplicationConfigServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/java/cz/upce/inpia/simpleshop/InpiaSimpleShopApplicationConfigServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/application-heroku.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/application-local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/db/migration/V1__init_schema.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/db/migration/V2__init_data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/idea-http/ProductDetail.http" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/javascript-vanilla/1_index-plain-get.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/javascript-vanilla/2_index-get-with-create-element.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/javascript-vanilla/3_index_get_all_orders.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/thymeleaf/cart.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/thymeleaf/checkout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/thymeleaf/fragments/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/thymeleaf/fragments/navigation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/thymeleaf/order-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/thymeleaf/product-detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/thymeleaf/product-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/thymeleaf/static/css/uikit-rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/thymeleaf/static/css/uikit-rtl.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/thymeleaf/static/css/uikit.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/thymeleaf/static/css/uikit.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/thymeleaf/static/js/uikit-icons.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/thymeleaf/static/js/uikit-icons.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/thymeleaf/static/js/uikit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/thymeleaf/static/js/uikit.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/META-INF/inpia-simple-shop (1).kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/application-heroku.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/application-local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/cz/upce/inpia/simpleshop/InpiaSimpleShopApplicationConfigServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/cz/upce/inpia/simpleshop/InpiaSimpleShopApplicationConfigServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/cz/upce/inpia/simpleshop/InpiaSimpleShopApplicationInventory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/cz/upce/inpia/simpleshop/controller/RestInventoryController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/cz/upce/inpia/simpleshop/dto/InventoryDto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/db/migration/V1__init_schema.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/db/migration/V2__init_data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/idea-http/ProductDetail.http" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/javascript-vanilla/1_index-plain-get.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/javascript-vanilla/2_index-get-with-create-element.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/javascript-vanilla/3_index_get_all_orders.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/thymeleaf/cart.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/thymeleaf/checkout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/thymeleaf/fragments/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/thymeleaf/fragments/navigation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/thymeleaf/order-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/thymeleaf/product-detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/thymeleaf/product-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/thymeleaf/static/css/uikit-rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/thymeleaf/static/css/uikit-rtl.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/thymeleaf/static/css/uikit.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/thymeleaf/static/css/uikit.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/thymeleaf/static/js/uikit-icons.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/thymeleaf/static/js/uikit-icons.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/thymeleaf/static/js/uikit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/target/classes/thymeleaf/static/js/uikit.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/inpia-simple-shop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/inpia-simple-shop.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/java/cz/upce/inpia/simpleshop/InpiaSimpleShopApplicationInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/java/cz/upce/inpia/simpleshop/InpiaSimpleShopApplicationInventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/java/cz/upce/inpia/simpleshop/controller/RestInventoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/java/cz/upce/inpia/simpleshop/controller/RestInventoryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/application-heroku.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/application-local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/config/inpia-simple-shop-catalog.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/config/inpia-simple-shop-catalog.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/db/migration/V1__init_schema.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/db/migration/V2__init_data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/idea-http/ProductDetail.http" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/javascript-vanilla/1_index-plain-get.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/javascript-vanilla/2_index-get-with-create-element.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/javascript-vanilla/3_index_get_all_orders.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/thymeleaf/cart.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/thymeleaf/checkout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/thymeleaf/fragments/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/thymeleaf/fragments/navigation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/thymeleaf/order-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/thymeleaf/product-detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/thymeleaf/product-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/thymeleaf/static/css/uikit-rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/thymeleaf/static/css/uikit-rtl.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/thymeleaf/static/css/uikit.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/thymeleaf/static/css/uikit.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/thymeleaf/static/js/uikit-icons.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/thymeleaf/static/js/uikit-icons.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/thymeleaf/static/js/uikit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/thymeleaf/static/js/uikit.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/bootstrap.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/target/classes/cz/upce/inpia/simpleshop/InpiaSimpleShopApplicationInventory.class" beforeDir="false" afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/target/classes/cz/upce/inpia/simpleshop/InpiaSimpleShopApplicationInventory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/target/classes/cz/upce/inpia/simpleshop/controller/RestInventoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/target/classes/cz/upce/inpia/simpleshop/controller/RestInventoryController.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/target/" />
     <ignored path="$PROJECT_DIR$/cz.upce.inpia.simple-shop.app/target/" />
@@ -150,6 +64,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/java/cz/upce/inpia/simpleshop/InpiaSimpleShopApplicationConfigServer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
@@ -161,25 +84,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/config/inpia-simple-shop-catalog.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/pom.xml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+            <state relative-caret-position="42">
+              <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/bootstrap.properties">
+        <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="2" column="49" lean-forward="true" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+            <state relative-caret-position="98">
+              <caret line="25" column="21" selection-start-line="21" selection-start-column="8" selection-end-line="25" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -212,21 +148,21 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.app/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/pom.xml" />
         <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/pom.xml" />
         <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/java/cz/upce/inpia/simpleshop/InpiaSimpleShopApplicationInventory.java" />
         <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/inpia-simple-shop-inventory.properties" />
-        <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/config/inpia-simple-shop-catalog.properties" />
         <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/config/inpia-simple-shop-inventory.properties" />
-        <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/java/cz/upce/inpia/simpleshop/InpiaSimpleShopApplicationInventory.java" />
         <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/java/cz/upce/inpia/simpleshop/controller/RestInventoryController.java" />
-        <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/java/cz/upce/inpia/simpleshop/InpiaSimpleShopApplicationConfigServer.java" />
         <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/pom.xml" />
         <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/pom.xml" />
-        <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/bootstrap.properties" />
         <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/config/inpia-simple-shop-catalog.properties" />
+        <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/pom.xml" />
       </list>
     </option>
   </component>
@@ -267,37 +203,63 @@
             <path>
               <item name="cv06" type="b2602c69:ProjectViewProjectNode" />
               <item name="cv06" type="462c0819:PsiDirectoryNode" />
-              <item name="cz.upce.inpia.simple-shop.config_server" type="462c0819:PsiDirectoryNode" />
+              <item name="cz.upce.inpia.simple-shop.catalog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cv06" type="b2602c69:ProjectViewProjectNode" />
               <item name="cv06" type="462c0819:PsiDirectoryNode" />
-              <item name="cz.upce.inpia.simple-shop.config_server" type="462c0819:PsiDirectoryNode" />
+              <item name="cz.upce.inpia.simple-shop.catalog" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cv06" type="b2602c69:ProjectViewProjectNode" />
               <item name="cv06" type="462c0819:PsiDirectoryNode" />
-              <item name="cz.upce.inpia.simple-shop.config_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cv06" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cv06" type="462c0819:PsiDirectoryNode" />
-              <item name="cz.upce.inpia.simple-shop.config_server" type="462c0819:PsiDirectoryNode" />
+              <item name="cz.upce.inpia.simple-shop.catalog" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cv06" type="b2602c69:ProjectViewProjectNode" />
               <item name="cv06" type="462c0819:PsiDirectoryNode" />
-              <item name="cz.upce.inpia.simple-shop.config_server" type="462c0819:PsiDirectoryNode" />
+              <item name="cz.upce.inpia.simple-shop.catalog" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="simpleshop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv06" type="462c0819:PsiDirectoryNode" />
+              <item name="cz.upce.inpia.simple-shop.catalog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv06" type="462c0819:PsiDirectoryNode" />
+              <item name="cz.upce.inpia.simple-shop.catalog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="thymeleaf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv06" type="462c0819:PsiDirectoryNode" />
+              <item name="cz.upce.inpia.simple-shop.config_server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv06" type="462c0819:PsiDirectoryNode" />
+              <item name="cz.upce.inpia.simple-shop.config_server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv06" type="462c0819:PsiDirectoryNode" />
+              <item name="cz.upce.inpia.simple-shop.config_server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cv06" type="b2602c69:ProjectViewProjectNode" />
@@ -306,15 +268,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cv06" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cv06" type="462c0819:PsiDirectoryNode" />
-              <item name="cz.upce.inpia.simple-shop.config_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cv06" type="b2602c69:ProjectViewProjectNode" />
@@ -393,7 +346,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554476844827" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554477566416" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -405,6 +358,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources" />
       <recent name="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/config" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -493,9 +447,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.InpiaSimpleShopApplicationCatalog" />
         <item itemvalue="Spring Boot.InpiaSimpleShopApplicationInventory" />
         <item itemvalue="Spring Boot.InpiaSimpleShopApplicationConfigServer" />
-        <item itemvalue="Spring Boot.InpiaSimpleShopApplicationCatalog" />
         <item itemvalue="Spring Boot.InpiaSimpleShopApplicationConfigServer" />
         <item itemvalue="Spring Boot.InpiaSimpleShopApplicationCatalog" />
       </list>
@@ -515,18 +469,18 @@
       <workItem from="1554109021216" duration="2395000" />
       <workItem from="1554111562874" duration="1889000" />
       <workItem from="1554117280479" duration="32000" />
-      <workItem from="1554452287930" duration="19541000" />
+      <workItem from="1554452287930" duration="20292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24286000" />
+    <option name="totallyTimeSpent" value="25037000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="18" width="1364" height="748" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1633888" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1633888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -550,7 +504,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.49924356" visible="true" weight="0.31506848" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.49924356" visible="true" weight="0.31506848" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -587,13 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -677,13 +624,6 @@
     <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/src/main/resources/application-local.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://063f4505-4f46-4790-b28b-671e1584fdf3/schema/inpia_eshop/table/product">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -708,22 +648,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/config/inpia-simple-shop-catalog.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/config/inpia-simple-shop-inventory-native.properties">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/config/inpia-simple-shop-inventory.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/java/cz/upce/inpia/simpleshop/controller/RestInventoryController.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -755,30 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/java/cz/upce/inpia/simpleshop/InpiaSimpleShopApplicationConfigServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -794,14 +696,75 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="49" lean-forward="true" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+        <state relative-caret-position="42">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="1" column="29" lean-forward="true" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/java/cz/upce/inpia/simpleshop/InpiaSimpleShopApplicationConfigServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/config/inpia-simple-shop-inventory.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/config/inpia-simple-shop-catalog.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="25" column="21" selection-start-line="21" selection-start-column="8" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/src/main/resources/thymeleaf/static/js/uikit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
