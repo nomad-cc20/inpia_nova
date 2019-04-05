@@ -1,20 +1,17 @@
 package cz.upce.inpia.simpleshop.controller;
 
-import cz.upce.inpia.simpleshop.dto.InventoryDto;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping(value = "/api/inventory")
-@EnableAutoConfiguration
 @CrossOrigin
 public class RestInventoryController {
 
     @Value("${server.port}")
     private Integer serverPort;
 
-    @Value("nomad")
+    @Value("${name}")
     String name;
 
     @GetMapping("{productId}")
