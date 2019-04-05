@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>nomadovoKoutek</title>
+</head>
+<body>
+
+<h1>Please add a new report</h1>
+<form
+        th:object="${issueReport}" th:action="@{/issuereport}" method="POST">
+    <div>
+        Description: <textarea name="description"
+    th:field="*{description}"></textarea>
+    </div>
+    <div>
+        URL: <input name="url" th:field="*{url}" />
+    </div>
+    <input type="submit" />
+</form>
+
+</body>
+</html>

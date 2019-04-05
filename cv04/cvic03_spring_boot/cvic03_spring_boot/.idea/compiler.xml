@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="net.jetensky.inpia.cvic03.springboot.cvic03_spring_boot.main" target="1.8" />
+      <module name="net.jetensky.inpia.cvic03.springboot.cvic03_spring_boot.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

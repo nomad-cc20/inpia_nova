@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cv06.iml" filepath="$PROJECT_DIR$/.idea/cv06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/inpia-simple-shop.iml" filepath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/inpia-simple-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/inpia-simple-shop (1).iml" filepath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/inpia-simple-shop (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/inpia-simple-shop (2).iml" filepath="$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/inpia-simple-shop (2).iml" />
+    </modules>
+  </component>
+</project>
