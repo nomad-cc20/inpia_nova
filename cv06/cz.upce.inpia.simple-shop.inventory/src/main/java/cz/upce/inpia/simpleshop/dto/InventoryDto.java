@@ -1,9 +1,11 @@
 package cz.upce.inpia.simpleshop.dto;
 
-public class InventoryDto {
-    public void setId(Integer productId) {
-    }
+import lombok.Data;
 
-    public void setQuantity(Integer serverPort) {
-    }
+@Data
+public class InventoryDto {
+
+    int id;
+
+    int quantity;
 }

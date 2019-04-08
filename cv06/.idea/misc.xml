@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.inventory/pom.xml" />
         <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.config_server/pom.xml" />
         <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.catalog/pom.xml" />
+        <option value="$PROJECT_DIR$/cz.upce.inpia.simple-shop.eureka_server/pom.xml" />
       </list>
     </option>
   </component>

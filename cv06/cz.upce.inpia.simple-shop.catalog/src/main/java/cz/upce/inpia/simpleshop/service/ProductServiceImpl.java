@@ -1,5 +1,6 @@
 package cz.upce.inpia.simpleshop.service;
 
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import cz.upce.inpia.simpleshop.dao.ProductDao;
 import cz.upce.inpia.simpleshop.entity.Product;
 import org.springframework.beans.factory.annotation.Autowired;

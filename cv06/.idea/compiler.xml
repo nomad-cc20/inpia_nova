@@ -9,6 +9,7 @@
         <module name="inpia-simple-shop" />
         <module name="inpia-simple-shop (1)" />
         <module name="inpia-simple-shop (2)" />
+        <module name="inpia-simple-shop (3)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,8 @@
       <module name="inpia-simple-shop" target="1.8" />
       <module name="inpia-simple-shop (1)" target="1.8" />
       <module name="inpia-simple-shop (2)" target="1.8" />
+      <module name="inpia-simple-shop (3)" target="1.8" />
+      <module name="inpia-simple-shop (4)" target="1.8" />
       <module name="inpia-simple-shop-catalog" target="1.8" />
       <module name="inventory" target="1.8" />
     </bytecodeTargetLevel>
@@ -26,6 +29,8 @@
       <module name="inpia-simple-shop" options="-parameters" />
       <module name="inpia-simple-shop (1)" options="-parameters" />
       <module name="inpia-simple-shop (2)" options="-parameters" />
+      <module name="inpia-simple-shop (3)" options="-parameters" />
+      <module name="inpia-simple-shop (4)" options="-parameters" />
       <module name="inpia-simple-shop-catalog" options="-parameters" />
       <module name="inventory" options="-parameters" />
     </option>
